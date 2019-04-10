@@ -8,12 +8,16 @@ Eclipse should have TestNG library files
 Analysis
 ----------------------------
 
-1) Issues and/or challenges you’ve come across and how did you overcome them?
+1) Issues and/or challenges youâ€™ve come across and how did you overcome them?
 
 Unable to find the loginLink object as the page load was taking time.So included implicit wait.
 2)If you had more time what would you do differently?
+
+If permitted with enough time
 -I would have implemented explicit wait with condition.
--If permitted with enough time, I would have implemented excel file integration to avoid hardcoded username and password.
+- I would have implemented excel file integration to avoid hardcoded username and password.
+-CrossBrowser testing could have been done.
+-Screen shots would have been taken for reference
 3) What other test cases would you automate and why?
 Test case 1: invalid Username and Valid Password
 	Invalid Username and Invalid Password
